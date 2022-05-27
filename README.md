@@ -10,10 +10,13 @@ Java Backend Github: https://github.com/BlairDesjardins/TicTacToeJava
 ## Technologies Used
 1. Python
 2. Java
-3. HTML-CSS
-4. Flask
-5. Postgresql
-6. Javascript
+3. Javalin
+4. HTML-CSS
+5. Flask
+6. Postgresql
+7. Javascript
+8. REST
+9. Selenium
 
 ## Features
 List of features ready and TODOs for future development:
