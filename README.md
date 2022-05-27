@@ -18,11 +18,9 @@ Java Backend Github: https://github.com/BlairDesjardins/TicTacToeJava
 ## Features
 List of features ready and TODOs for future development:
 
-Login in with username and password
-
-Play Tic Tac Toe with others players
-
-Todo: Leaderboard and user stat tracking
+* Login in with username and password
+* Play Tic Tac Toe with others players
+* Todo: Leaderboard and user stat tracking
 
 # Getting Started
 1. Install Python 3 on your computer
